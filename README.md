@@ -20,7 +20,9 @@ PowerBI for data analytics and visualization.
 
 **5.Executive View:** Developed an executive-level dashboard providing a comprehensive overview of the business, presenting key performance indicators (KPIs) and critical metrics for informed decision-making.
 
+## Live Dashboard:
 
+Checkout my dashboard [Click here](https://app.powerbi.com/view?r=eyJrIjoiNmQ2YWQyYWItOGY5Ny00OWIwLTk5ZjAtODM5NjBkZDI4OGFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 
