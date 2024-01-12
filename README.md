@@ -2,6 +2,28 @@
 Meet Business Insights 360, a Power BI project that gives AtliQ valuable insights in Finance, Sales, Marketing, Supply Chain, and an exclusive Executive View
 
 ## Objective:
-Implementing data-driven decision-making across various business aspects.
+Implementing data-driven decision-making across various business aspects and  aim to increase sales by 10%.
+
+## Tools used:
+My SQL for database.
+                                                                                                        
+PowerBI for data analytics and visualization.
+
+## Components:
+**1.Finance View:** Offer valuable insights into profit margins, expenses, and prevailing financial trends.
+
+**2.Sales View:** To understand customer behaviors, product performance, and market trends, implementing sales analytics to identify opportunities for growth and optimization.
+
+**3.Marketing View:** Evaluated marketing strategies and campaigns to determine their effectiveness, providing insights on which marketing channels and initiatives contribute most to sales.
+
+**4.Supply Chain View:** Analyzed supply chain data to optimize inventory management, reduce costs, and improve efficiency, identifying potential bottlenecks or inefficiencies in the supply chain.
+
+**5.Executive View:** Developed an executive-level dashboard providing a comprehensive overview of the business, presenting key performance indicators (KPIs) and critical metrics for informed decision-making.
+
+
+
+
+
+
 
 
