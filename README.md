@@ -55,6 +55,8 @@ PowerBI for data analytics and visualization.
 
 Checkout my dashboard [Click here](https://app.powerbi.com/view?r=eyJrIjoiNmQ2YWQyYWItOGY5Ny00OWIwLTk5ZjAtODM5NjBkZDI4OGFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+Updated dashboard (https://app.powerbi.com/view?r=eyJrIjoiNzkyN2I3N2ItMjY2Ny00OTg2LWIxM2YtNTIxMDlmNTAzNDNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## How to Contribute
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
